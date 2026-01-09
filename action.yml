@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Podcast Generator for Moose Feed"
 author: "Adam Millllllls"
 description: "Generates a feed for a podcast from a yaml file"
 runs:
